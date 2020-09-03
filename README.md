@@ -18,6 +18,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## :rabbit: React Native Useful tutorials
 :zap: [Add unimodules](https://docs.expo.io/bare/installing-unimodules/)</br>
+:zap: [Add admob ads](https://docs.expo.io/versions/latest/sdk/admob/)</br>
 
 ## :octocat: Github Useful repositories
 :zap: [Emojis](https://gist.github.com/rxaviers/7360908)</br>
