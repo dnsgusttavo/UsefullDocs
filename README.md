@@ -15,6 +15,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 :zap: [Download media for links](https://github.com/joltup/rn-fetch-blob)</br>
 :zap: [Vector Icons](https://github.com/oblador/react-native-vector-icons)</br>
 :star2: [Material Design Icon List](https://material.io/resources/icons/?style=baseline)</br>
+:zap: [See more inline](https://github.com/kashishgrover/react-native-see-more-inline)</br>
 
 ## :rabbit: React Native Useful tutorials
 :zap: [Add unimodules](https://docs.expo.io/bare/installing-unimodules/)</br>
