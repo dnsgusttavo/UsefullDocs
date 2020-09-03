@@ -13,7 +13,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 :zap: [Awesome customizable video player](https://github.com/react-native-community/react-native-video)</br>
 :zap: [Text Input Mask](https://github.com/react-native-community/react-native-text-input-mask)</br>
 :zap: [Download media for links](https://github.com/joltup/rn-fetch-blob)</br>
+:zap: [Vector Icons](https://github.com/oblador/react-native-vector-icons)</br>
+:star2: [Material Design Icon List](https://material.io/resources/icons/?style=baseline)</br>
 
+## :rabbit: React Native Useful tutorials
+:zap: [Add unimodules](https://docs.expo.io/bare/installing-unimodules/)</br>
 
 ## Github Useful repositories
 :zap: [Emojis](https://gist.github.com/rxaviers/7360908)</br>
