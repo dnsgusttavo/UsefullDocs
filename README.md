@@ -22,3 +22,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## :octocat: Github Useful repositories
 :zap: [Emojis](https://gist.github.com/rxaviers/7360908)</br>
+
+## :beetle: How To Solve Errors
+  ### :dizzy: CameraRoll bug
+  ##### ERROR:
+  Error: Permission denied at Object.promiseMethodWrapper [as saveToCameraRoll] (But Permission for 'write external storage' is granted)
+  
+  ##### SOLUTION:
+  Add android: requestLegacyExternalStorage = "true" on  AndroidManifest.xml (Inside application tag)
+  ```xml
+  <application android:requestLegacyExternalStorage="true" ... >
+  ```
