@@ -25,6 +25,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## :octocat: Github Useful repositories
 :zap: [Emojis](https://gist.github.com/rxaviers/7360908)</br>
 
+## :space_invader: C/C++ Tips/Tutorials
+:zap: [How to install GCC on Windows (PT-BR)](https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/)</br>
+
 ## :beetle: How To Solve Errors
   ### :dizzy: CameraRoll bug
   ##### ERROR:
