@@ -28,6 +28,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## :space_invader: C/C++ Tips/Tutorials
 :zap: [How to install GCC on Windows (PT-BR)](https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/)</br>
 
+## :diamond_shape_with_a_dot_inside: Figma Plugins
+:zap: [Figma Blobs](https://www.figma.com/community/plugin/739208439270091369/Blobs)
+
+## :link: Design Links
+:zap: [Free Ilustrations](https://undraw.co/)
 ## :beetle: How To Solve Errors
   ### :dizzy: CameraRoll bug
   ##### ERROR:
